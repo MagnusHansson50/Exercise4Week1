@@ -1,4 +1,4 @@
-v = input("Vilken hastighet i km/h kommer ni köra? ")
+
 
 # Function that calculate the times it takes to travel 470km
 # Return travel time in hours, minutes and seconds.
@@ -10,6 +10,18 @@ def calculateTime(v):
     secondsLeft = int (secondsLeft % 60)
     return hours, minutes, secondsLeft
 
-h, m, s = calculateTime(v)
+v = input("Vilken hastighet i km/h kommer ni köra? ")
 
-print(f"Det kommer att ta {h} timmar {m} minuter och {s} sekunder.")
+#try:
+#    v = int(v)
+#    h, m, s = calculateTime(v)
+#    print(f"Det kommer att ta {h} timmar {m} minuter och {s} sekunder.")
+#except ValueError:
+#    print("Det är ingen giltig hastighet")
+
+if v.isdigit():
+    v = int(v)
+    h, m, s = calculateTime(v)
+    print(f"Det kommer att ta {h} timmar {m} minuter och {s} sekunder.")
+else:
+    print("Det är ingen giltig hastighet")
