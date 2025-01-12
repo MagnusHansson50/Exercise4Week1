@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27037515-ff1d-4756-aa34-de3afa864e36" name="Changes" comment="Added check for valid input">
+    <list default="true" id="27037515-ff1d-4756-aa34-de3afa864e36" name="Changes" comment="Loop added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -75,13 +75,28 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1736678275221</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Added check for valid input">
+      <option name="closed" value="true" />
+      <created>1736679122758</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1736679122758</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Loop added.">
+      <option name="closed" value="true" />
+      <created>1736679172639</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1736679172639</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 4 initial commit." />
     <MESSAGE value="Added check for valid input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added check for valid input" />
+    <MESSAGE value="Loop added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Loop added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

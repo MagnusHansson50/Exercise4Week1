@@ -10,7 +10,7 @@ def calculateTime(v):
     secondsLeft = int (secondsLeft % 60)
     return hours, minutes, secondsLeft
 
-v = input("Vilken hastighet i km/h kommer ni köra? ")
+#v = input("Vilken hastighet i km/h kommer ni köra? ")
 
 #try:
 #    v = int(v)
