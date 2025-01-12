@@ -38,4 +38,4 @@ while True:
         else:
             print("DeLorean hastighet är inte ok, ange en positiv hastighet")
     except ValueError:
-        print("Det är ingen giltig hastighet")
+        print("Det är ingen giltig hastighet!!!")
