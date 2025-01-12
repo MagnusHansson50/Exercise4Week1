@@ -7,7 +7,7 @@ def calculateTime(v):
     hours = seconds // 3600
     secondsLeft = seconds % 3600
     minutes = secondsLeft // 60
-    secondsLeft = int (secondsLeft % 60)
+    secondsLeft = (secondsLeft % 60)
     return hours, minutes, secondsLeft
 
 #v = input("Vilken hastighet i km/h kommer ni köra? ")

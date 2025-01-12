@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27037515-ff1d-4756-aa34-de3afa864e36" name="Changes" comment="Loop added.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="27037515-ff1d-4756-aa34-de3afa864e36" name="Changes" comment="Corrected a mistake with two input questions.">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,14 +88,22 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1736679172639</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Corrected a mistake with two input questions.">
+      <option name="closed" value="true" />
+      <created>1736703944359</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1736703944359</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 4 initial commit." />
     <MESSAGE value="Added check for valid input" />
     <MESSAGE value="Loop added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Loop added." />
+    <MESSAGE value="Corrected a mistake with two input questions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected a mistake with two input questions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
